@@ -1,0 +1,11 @@
+{
+  "subdomain": "csp90",
+  "repo": "github.com/ytcyberslotp90/Cyber-Slot-Official-Website/",
+  "owner": "ytcyberslotp90",
+  "description": "Cyber Slot personal project homepage but csp-90 his another account hosted it.",
+  "tags": ["personal", "project", "demo"],
+  "dns": {
+    "type": "CNAME",
+    "value": "csp-90.github.io"
+  }
+}
